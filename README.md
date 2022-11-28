@@ -7,6 +7,10 @@ With the rapid development of wireless networks and artificial intelligence tech
 
 ![image info](./flowchart.JPG)
 
+## Version
+Unity 2020.3.25f1
+ML-agents Release 17
+
 ## License
 Copyright (c) 2022 Networking Intelligence
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
